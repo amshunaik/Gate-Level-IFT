@@ -1,0 +1,31 @@
+Sample circuit 1.
+
+Input-g0, g1; out-g2, g3
+G4=not (g0)
+G3=AND (g1, g0)
+G2=OR (g4, g1)
+
+
+Input format when code is executed:
+
+2
+Input-g0
+Input-g1
+2
+Output-g2
+Output-g3
+Inverters-1
+Invert circuit-g4
+NOT
+g0
+gates- 2
+normal gates-g3
+AND
+g1
+g0
+g2
+OR
+g4
+g1
+
+
