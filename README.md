@@ -15,7 +15,7 @@ This project is to do fundamental analysis of GLIFT and its properties and to im
 
 ### Code-1.Cpp file
         * Code of GLIFT for small circuits.
-        * During the execution of the code,the input is given by the user.
+        * During the execution of the code,the input is given by the user- https://github.com/amshunaik/Gate-Level-IFT/blob/main/Code%20-1%20input%20format
         * Run the code.
         * Get the result.
 ### GLIFT code.Cpp file
