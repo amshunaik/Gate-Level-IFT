@@ -39,5 +39,3 @@ This project is to do fundamental analysis of GLIFT and its properties and to im
 
 
 
-
-
