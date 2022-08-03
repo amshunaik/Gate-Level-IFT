@@ -1,10 +1,11 @@
+
 # Gate Level Information Flow Tracking (GLIFT)
 
-## Project discription
+# Project discription
 
 This project is on implementation of Gate level inform ation flow tracking (GLIFT), a Hardware based information flow Technique in code using Cpp language.
 
-## Table of contents
+# Table of contents
 
    * Introduction
    * About GLIFT
