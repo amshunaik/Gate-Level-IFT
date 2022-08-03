@@ -13,7 +13,7 @@ This project is to do fundamental analysis of GLIFT and its properties and to im
 
 ## How to execute
 
-### Output code file
+### output code.cpp
         * Code of GLIFT for small circuits.
         * During the execution of the code,the input is given by the user.
         * Run the code.
