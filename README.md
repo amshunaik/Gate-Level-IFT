@@ -9,6 +9,7 @@ This project is on implementation of Gate level inform ation flow tracking (GLIF
    * Introduction
    * About GLIFT/ Features
    * Methodology for implementation
+   * Reference 
    
 ## Introduction
 As Information flow tracking is an effective tool in computer security for detecting unintended information flows.software based information flow tracking 
@@ -27,6 +28,12 @@ This project is to do fundamental analysis of GLIFT and its properties and to im
 * Classify each gate by its level and start evaluating levelwise.
 * Tracking the input bit value and tainted bit value.
 * Evaluate the values using the shadow logic functions corresponding to that particular gate.
+
+## Reference
+* D:\IEEE_FINAL\10-3-2011\Finalcorrections\tcad-oberg-2120970\tcad-oberg-2120970-proof.dvi (ucsd.edu)
+* untitled (utexas.edu)
+
+
 
 
 
