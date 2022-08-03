@@ -1,4 +1,4 @@
-# Gate-Level-IFT
+# Gate-Level-Information-Flow-Tracking (GLIFT)
 
 ## Project discription
 
