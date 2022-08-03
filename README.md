@@ -1,7 +1,7 @@
 
 # Gate Level Information Flow Tracking (GLIFT)
 
-This paper basically implements the code for Gate Level Information flow tracking as described in the paper https://cseweb.ucsd.edu/~weh140/resource/TCAD_11.pdf
+This paper implements the code for Gate Level Information flow tracking (GLIFT) as described in the paper https://cseweb.ucsd.edu/~weh140/resource/TCAD_11.pdf
 
 ## Project Description
 This project is on implementation of Gate level inform ation flow tracking (GLIFT), a Hardware based information flow Technique in code using Cpp language.
