@@ -1,4 +1,4 @@
-# Gate-Level-IFT
+## Gate-Level-IFT
 
 # Project discription
 
