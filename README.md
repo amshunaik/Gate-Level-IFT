@@ -30,8 +30,10 @@ This project is to do fundamental analysis of GLIFT and its properties and to im
 * Evaluate the values using the shadow logic functions corresponding to that particular gate.
 
 ## Reference
-* D:\IEEE_FINAL\10-3-2011\Finalcorrections\tcad-oberg-2120970\tcad-oberg-2120970-proof.dvi (ucsd.edu)
-* untitled (utexas.edu)
+* https://cseweb.ucsd.edu/~weh140/resource/TCAD_11.pdf
+* https://users.ece.utexas.edu/~tiwari/pubs/DAC-10-glift.pdf
+
+
 
 
 
