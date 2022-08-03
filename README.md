@@ -14,12 +14,12 @@ This project is to do fundamental analysis of GLIFT and its properties and to im
 ## How to execute
 
 ### Code-1.Cpp file
-        * Code of GLIFT for small circuits.
+        * Code for small circuits.
         * Code-1 input format: Input format for "Code-1.cpp" file during the execution of the code given by the user
         * Run the code.
         * Code result: Output for the input in "Code-1 input format" file
 ### GLIFT code.Cpp file
-        * Code of GLIFT for Large circuits.
+        * Code for Large circuits.
         * GLIFT sample circuit: The input format for the code given in txt.file (text.file),which need to be uploaded before execution of the code.
         * Run the code.
         * GLIFT sample circuit output: Output for the input in "GLIFT sample circuit" file
