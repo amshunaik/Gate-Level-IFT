@@ -1,0 +1,27 @@
+Result for 
+
+* If no of input bit value be 2 (g=2), Then the output
+
+    a1  b1   at1  bt1
+    
+    0    0    0    0 
+    0    0    0    1 
+    0    0    1    0 
+    0    0    1    1 
+    0    1    0    0 
+    0    1    0    1 
+    0    1    1    0 
+    0    1    1    1 
+    1    0    0    0 
+    1    0    0    1 
+    1    0    1    0 
+    1    0    1    1 
+    1    1    0    0 
+    1    1    0    1 
+    1    1    1    0 
+    1    1    1    1 
+   
+- a1,b1 are input bit values and at1,bt1 are tainted bit value for the respective input values a1 and b1.
+- Here we have tainted bit values for all possible compination of input bit values.
+
+similarly we can get for any value of g, number of input bit values for the circuit.
