@@ -13,14 +13,16 @@ This project is to do fundamental analysis of GLIFT and its properties and to im
 
 ## How to execute
 
-### output code.cpp
+### output code.cpp file
         * Code of GLIFT for small circuits.
         * During the execution of the code,the input is given by the user.
         * Run the code.
-### GLIFT code file
+        * Get the result.
+### GLIFT code.c++ file
         * Code of GLIFT for Large circuits.
         * The input format for the code given in txt. file (eg,sample circuit),which need to be uploaded before execution of the code.
         * Run the code.
+        * Get the result. 
 ## Reference
 * https://cseweb.ucsd.edu/~weh140/resource/TCAD_11.pdf
 * https://users.ece.utexas.edu/~tiwari/pubs/DAC-10-glift.pdf
