@@ -1,4 +1,4 @@
-                                                            # Gate Level Information Flow Tracking (GLIFT)
+# Gate Level Information Flow Tracking (GLIFT)
 
 ## Project discription
 
