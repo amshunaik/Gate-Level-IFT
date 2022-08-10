@@ -18,11 +18,7 @@ This project is to do fundamental analysis of GLIFT and its properties and to im
         * Code-1 input format: Input format for "Code-1.cpp" file during the execution of the code given by the user
         * Run the code.
         * Code result: Output for the input in "Code-1 input format" file
-### [GLIFT code.Cpp file](https://github.com/amshunaik/Gate-Level-IFT/blob/main/GLIFT%20code.cpp)
-        * Code for Large circuits.
-        * GLIFT sample circuit: The input format for the code given in txt.file (text.file),which need to be uploaded before execution of the code.
-        * Run the code.
-        * GLIFT sample circuit output: Output for the input in "GLIFT sample circuit" file
+
 ## Reference
 * https://cseweb.ucsd.edu/~weh140/resource/TCAD_11.pdf
 * https://users.ece.utexas.edu/~tiwari/pubs/DAC-10-glift.pdf
