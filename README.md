@@ -13,7 +13,7 @@ This project is to do fundamental analysis of GLIFT and its properties and to im
 
 ## How to execute
 
-### [Code-1.Cpp file](https://github.com/amshunaik/Gate-Level-IFT/blob/main/Code-1.cpp)
+### [GLIFT code.Cpp file](https://github.com/amshunaik/Gate-Level-IFT/blob/main/GLIFT%20code.Cpp)
 * Code for small circuits.
 * Input format: Input format for "GLIFT.cpp" file during the execution of the code given by the user mentioned in "Glift input format" file
 * Run the code.
